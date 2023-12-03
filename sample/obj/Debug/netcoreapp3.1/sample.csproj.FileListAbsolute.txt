@@ -1,0 +1,16 @@
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\sample.deps.json
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\sample.dll
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\sample.pdb
+C:\Users\JP\source\repos\Practice\sample\obj\Debug\netcoreapp3.1\sample.csproj.AssemblyReference.cache
+C:\Users\JP\source\repos\Practice\sample\obj\Debug\netcoreapp3.1\sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JP\source\repos\Practice\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfoInputs.cache
+C:\Users\JP\source\repos\Practice\sample\obj\Debug\netcoreapp3.1\sample.AssemblyInfo.cs
+C:\Users\JP\source\repos\Practice\sample\obj\Debug\netcoreapp3.1\sample.csproj.CoreCompileInputs.cache
+C:\Users\JP\source\repos\Practice\sample\obj\Debug\netcoreapp3.1\sample.dll
+C:\Users\JP\source\repos\Practice\sample\obj\Debug\netcoreapp3.1\sample.pdb
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\JP\source\repos\Practice\sample\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
